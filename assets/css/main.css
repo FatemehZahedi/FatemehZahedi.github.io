@@ -146,12 +146,12 @@ a:hover {
     text-align: center;
     position: relative;
     z-index: 2;
-    border-radius: 50%;
+    border-radius: 100%;
     -o-border-radius: 50%;
     -ms-border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
-    line-height: 50px;
+    line-height: 43px;
 }
 
 #verticalTab {
