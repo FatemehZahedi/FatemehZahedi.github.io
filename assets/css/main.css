@@ -145,7 +145,7 @@ a:hover {
     height: 42px !important;
     text-align: center;
     position: relative;
-    top: 20px;
+    bottom: 50px;
     z-index: 2;
     border-radius: 50%;
     -o-border-radius: 50%;
