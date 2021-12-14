@@ -155,7 +155,7 @@ a:hover {
 }
 
 #verticalTab {
-    z-index: 2;
+    z-index: 0.5;
     height: 100%;
     background: #fff;
 }
